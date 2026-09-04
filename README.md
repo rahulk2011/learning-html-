@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Hi, I'm K. Rahul!</strong> This is my repository for learning and writing HTML on GitHub.
 </p>
-
+-
 <hr>
 
 <h2>📌 About This Project</h2>
